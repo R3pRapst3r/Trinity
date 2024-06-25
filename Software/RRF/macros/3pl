@@ -1,0 +1,12 @@
+; called to perform automatic bed compensation via G32
+
+; 3Z
+M401 ; deploy Z probe (omit if using bltouch)
+G1 F6000
+G30 P0 X15 Y15 Z-99999 ; probe near a leadscrew
+G30 P1 X295 Y15 Z-99999 ; probe near a leadscrew
+G30 P2 X295 Y290 Z-99999 ; probe near a leadscrew
+G30 P3 X15 Y290 Z-99999 S3 ; probe near a leadscrew
+
+M402 ; retract probe (omit if using bltouch)
+

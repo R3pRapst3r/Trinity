@@ -1,0 +1,10 @@
+; Mesh bed sequense 
+M98 P/macros/z_dock_get
+
+M557 X20:290 Y20:290 S290:290                         ; define mesh grid
+
+M561 ; clear any bed transform
+G29  ; probe the bed and enable compensation
+M376 H10 ; Taper 
+
+M98 P/macros/z_dock_leave

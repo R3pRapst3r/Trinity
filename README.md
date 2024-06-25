@@ -1,5 +1,5 @@
 # Trinity
-A variation of the Valkyrie project, a DIY 3D Printer.
+A variation of the [Valkyrie](https://github.com/RoyBerntsenDesign/Project-Valkyrie/tree/main) project, a DIY 3D Printer.
 
 ## Specifications for Designed Size
 - Frame footprint - 500X520X750

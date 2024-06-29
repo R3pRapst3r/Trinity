@@ -32,6 +32,6 @@ A variation of the [Valkyrie](https://github.com/RoyBerntsenDesign/Project-Valky
 | 520mm x 80mm ACM Panel | 2 | Side skirts|
 | 506mm x 80mm ACM Panel | 2 | Front / Rear skirts |
 | Phaetus Dragon UHF | 1 | Without extension (mini) |
-| [500w AC PTC heater](https://www.amazon.com/gp/product/B07P5NCR2F/) | 1 | chamber heating element |
+| [500w AC PTC heater](https://www.amazon.com/gp/product/B07P5NCR2F/) | 1 | Chamber heating element |
 | 24v 5020 Fan | 4 | Chamber heater / Skirt fans |
-| DC / AC solid state relay | 1 | chamber heater relay |
+| DC / AC solid state relay | 1 | Chamber heater relay |

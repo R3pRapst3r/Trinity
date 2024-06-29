@@ -1,10 +1,10 @@
 # Trinity
-A variation of the [Valkyrie](https://github.com/RoyBerntsenDesign/Project-Valkyrie/tree/main) project, a DIY 3D Printer.
+A variation of the [Valkyrie](https://github.com/RoyBerntsenDesign/Project-Valkyrie/tree/main) project, a DIY 3D printer.
 
 ## Specifications for Designed Size
+- Able to print high temp materials up to 450C nozzle temp
 - Frame footprint - 500X520X750
 - Print volume - 320X320X320
-- Should still be able to print high temp materials up to 450C nozzle temp
 
 ## Features
 - Automated bed-tramming with triple independent Z lifting the bed via maxwell coupling
@@ -16,4 +16,18 @@ A variation of the [Valkyrie](https://github.com/RoyBerntsenDesign/Project-Valky
 - High temp belts 9mm gates 2GT on all axis
 - Solid frame with low center of gravity
 - Sensorless homing on X and Y axes
-- Seperate AC and DC systems
+
+## BOM Additions
+| Item | Quantity | Use |
+| ------------- | ------------- | ------------- |
+| 400mm MGN12H rails | 3 | In place of the 350mm Z rails |
+| 9mm hi-temp 2GT belt | 500mm | 50mm Z travel increase |
+| 2820 L bracket | 2 | top frame side supports |
+| 480mm 2020 extrusion | 2 | top frame sides |
+| 389mm 2020 extrusion | 1 | rear Z |
+| 640mm x 490mm PC Panel | 1 | Front door |
+| 640mm x 470mm ACM Panel | 1 | Rear panel (CNC preferred) |
+| 650mm x 460mm PC Panel | 2 | Side panels (ACM optional) |
+| 520mm x 80mm ACM Panel | 2 | Side skirts|
+| 506mm x 80mm ACM Panel | 2 | Front / Rear skirts |
+| Phaetus Dragon UHF | 1 | without extension (mini) |

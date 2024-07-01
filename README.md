@@ -3,9 +3,9 @@ A variation of the [Valkyrie](https://github.com/RoyBerntsenDesign/Project-Valky
 ![Trinity](./CAD/Images/Home.png)
 
 ## Specifications for Designed Size
-- Able to print high temp materials up to 450C nozzle temp
-- Frame footprint - 500X520X750
-- Print volume - 320X320X320
+- Able to print high temp materials up to 450C nozzle and 80C chamber temp
+- Frame footprint - 500mm x 520mm x 750mm
+- Print volume - 320mm x 320mm x 320mm
 
 ## Features
 - Automated bed-tramming with triple independent Z lifting the bed via maxwell coupling
@@ -31,7 +31,8 @@ A variation of the [Valkyrie](https://github.com/RoyBerntsenDesign/Project-Valky
 | 650mm x 460mm PC Panel | 2 | Side panels (ACM optional) |
 | 520mm x 80mm ACM Panel | 2 | Side skirts|
 | 506mm x 80mm ACM Panel | 2 | Front / Rear skirts |
-| Phaetus Dragon UHF | 1 | Without extension (mini) |
+| Phaetus Dragon UHF | 1 | Without nozzle extension (mini) |
+| M2.5 x 12mm SHCS | 4 | Hotend mount screws (in place of 8mm) |
 | [500w AC PTC heater](https://www.amazon.com/gp/product/B07P5NCR2F/) | 1 | Chamber heating element |
 | 24v 5020 Fan | 4 | Chamber heater / Skirt fans |
 | DC / AC solid state relay | 1 | Chamber heater relay |

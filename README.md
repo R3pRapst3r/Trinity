@@ -1,7 +1,7 @@
 # Trinity
 A variation of the [Valkyrie](https://github.com/RoyBerntsenDesign/Project-Valkyrie/tree/main) project, a DIY 3D printer.
 ![Trinity](./CAD/Images/Home.png)
-![DragonUHF](./CAD/Images/dragonUHF_toolhead_rear.png)
+![DragonUHF](./CAD/Images/dragonUHF_toolhead_Right.png)
 
 ## Specifications
 - Able to print high temp materials up to 450C nozzle and 80C chamber

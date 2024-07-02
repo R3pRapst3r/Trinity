@@ -34,6 +34,8 @@ A variation of the [Valkyrie](https://github.com/RoyBerntsenDesign/Project-Valky
 | 506mm x 80mm ACM Panel | 2 | Front / Rear skirts |
 | Phaetus Dragon UHF | 1 | Without nozzle extension (mini) |
 | M2.5 x 12mm SHCS | 4 | Hotend mount screws (in place of 8mm) |
+| 355mm ultraflat bed | 1 | Email sales@mandalaroseworks.com |
+| [TronXY 330mm AC bed heater](https://keenovo.store/collections/custom-keenovo-silicone-heaters/products/keenovo-silicone-heater-pad-330x330mm-for-tronxy-x5s-3d-printer-build-plate-heatbed-heating-upgrade?variant=12459364810807) | 1 | In place of 300mm bed heater |
 | [500w AC PTC heater](https://www.amazon.com/gp/product/B07P5NCR2F/) | 1 | Chamber heating element |
 | 24v 5020 Fan | 4 | Chamber heater / Skirt fans |
 | DC / AC solid state relay | 1 | Chamber heater relay |

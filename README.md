@@ -39,3 +39,4 @@ A variation of the [Valkyrie](https://github.com/RoyBerntsenDesign/Project-Valky
 | [500w AC PTC heater](https://www.amazon.com/gp/product/B07P5NCR2F/) | 1 | Chamber heating element |
 | 24v 5020 Fan | 4 | Chamber heater / Skirt fans |
 | DC / AC solid state relay | 1 | Chamber heater relay |
+| 460mm DIN 3 Rails | 2 | Electronics mounting |
